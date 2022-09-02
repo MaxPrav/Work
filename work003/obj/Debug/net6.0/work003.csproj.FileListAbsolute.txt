@@ -1,0 +1,15 @@
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\bin\Debug\net6.0\work003.exe
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\bin\Debug\net6.0\work003.deps.json
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\bin\Debug\net6.0\work003.runtimeconfig.json
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\bin\Debug\net6.0\work003.dll
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\bin\Debug\net6.0\work003.pdb
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.csproj.AssemblyReference.cache
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.AssemblyInfoInputs.cache
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.AssemblyInfo.cs
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.csproj.CoreCompileInputs.cache
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.dll
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\refint\work003.dll
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.pdb
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\work003.genruntimeconfig.cache
+C:\Users\maxip\OneDrive\Рабочий стол\Work\work003\obj\Debug\net6.0\ref\work003.dll
